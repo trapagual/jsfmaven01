@@ -1,2 +1,11 @@
+/home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/dao/DAOProperties.java
+/home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/beans/UserBean.java
+/home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/models/User.java
 /home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/models/Employee.java
+/home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/dao/DAOConfigurationException.java
+/home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/dao/UserDAO.java
+/home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/dao/DAOException.java
+/home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/dao/DAOFactory.java
+/home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/dao/DAOUtil.java
+/home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/dao/UserDAOJDBC.java
 /home/alejandro/NetBeansProjects/jsfmaven01/src/main/java/es/trapasoft/jsf/jsfmaven01/beans/EmployeesBean.java

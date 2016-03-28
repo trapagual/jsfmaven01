@@ -2,8 +2,8 @@
 package es.trapasoft.jsf.jsfmaven01.dao;
 
 import static es.trapasoft.jsf.jsfmaven01.dao.DAOUtil.*;
+import es.trapasoft.jsf.jsfmaven01.models.User;
 
-import es.trapasoft.jsf.modelo.User;
  
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -256,4 +256,6 @@ public class UserDAOJDBC implements UserDAO {
         user.setBirthdate(resultSet.getDate("birthdate"));
         return user;
     }
+
+    
 }

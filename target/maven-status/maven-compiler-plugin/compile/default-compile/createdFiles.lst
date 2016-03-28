@@ -1,2 +1,14 @@
 es/trapasoft/jsf/jsfmaven01/beans/EmployeesBean.class
+es/trapasoft/jsf/jsfmaven01/models/User.class
+es/trapasoft/jsf/jsfmaven01/dao/DAOProperties.class
+es/trapasoft/jsf/jsfmaven01/dao/DataSourceDAOFactory.class
+es/trapasoft/jsf/jsfmaven01/dao/DAOException.class
+es/trapasoft/jsf/jsfmaven01/dao/DataSourceWithLoginDAOFactory.class
+es/trapasoft/jsf/jsfmaven01/dao/DAOFactory.class
+es/trapasoft/jsf/jsfmaven01/dao/UserDAOJDBC.class
+es/trapasoft/jsf/bean/UserBean.class
 es/trapasoft/jsf/jsfmaven01/models/Employee.class
+es/trapasoft/jsf/jsfmaven01/dao/DAOConfigurationException.class
+es/trapasoft/jsf/jsfmaven01/dao/UserDAO.class
+es/trapasoft/jsf/jsfmaven01/dao/DriverManagerDAOFactory.class
+es/trapasoft/jsf/jsfmaven01/dao/DAOUtil.class

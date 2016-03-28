@@ -1,5 +1,5 @@
 
-package es.trapasoft.jsf.modelo;
+package es.trapasoft.jsf.jsfmaven01.models;
 
 import java.io.Serializable;
 import java.util.Date;

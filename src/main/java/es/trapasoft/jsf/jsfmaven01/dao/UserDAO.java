@@ -5,7 +5,7 @@
  */
 package es.trapasoft.jsf.jsfmaven01.dao;
 
-import es.trapasoft.jsf.modelo.User;
+import es.trapasoft.jsf.jsfmaven01.models.User;
 import java.util.List;
 
 

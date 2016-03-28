@@ -4,9 +4,10 @@
  */
 package es.trapasoft.jsf.bean;
 
-import es.trapasoft.jsf.dao.DAOFactory;
-import es.trapasoft.jsf.dao.UserDAO;
-import es.trapasoft.jsf.modelo.User;
+
+import es.trapasoft.jsf.jsfmaven01.dao.DAOFactory;
+import es.trapasoft.jsf.jsfmaven01.dao.UserDAO;
+import es.trapasoft.jsf.jsfmaven01.models.User;
 import java.util.List;
 import javax.annotation.PostConstruct;
 import javax.faces.bean.ManagedBean;
